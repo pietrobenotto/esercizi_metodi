@@ -1,4 +1,0 @@
-Ecco qui
-
-
-import numpy as np
